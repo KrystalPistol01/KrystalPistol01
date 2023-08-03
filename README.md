@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KrystalPistol01
-- 👀 I’m interested in ... all kinds of things from crafting to coding
+- 👋 Hi, I’m @KrystalPistol01.
+- 👀 I’m interested in ... All kinds of things from crafting to coding.
 - 🌱 I’m currently learning ... ASP.NET, Blazor, and many more.
 - 💞️ I’m looking to collaborate on ... I don't collaborate, sorry.
 - 📫 How to reach me ... You can't unless you know me.
